@@ -8,4 +8,4 @@ Projelerde anarchy.js yazıyor diye bazı salak orospular botların sahibi anarc
 
 Projelerimdeki main dosyalarının adı diğer nickim olan olan anarchy yani anarchy.js'di. Değiştirip vodka olarak devam etmek istedim.
 Projeler bana aittir çalan kerizler olursa lisans dosyasına göz atsın bence.
-Lisansın ne olduğunu bile bilmeden dava açmaya hakkın yok diye gerizekalı arkadaşlarımız da projelerimi çalsın sıkıntı yok lisans üzerinden tazminat davası açarsam donuna kadar alırım.
+Lisansın ne olduğunu bile bilmeden dava açmaya hakkın yok diyen gerizekalı arkadaşlarımız da projelerimi çalsın sıkıntı yok lisans üzerinden tazminat davası açarsam donuna kadar alırım.
